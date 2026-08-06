@@ -1,0 +1,115 @@
+# Lab Setup Log
+
+## Student Information
+
+**Name:** Henry John
+
+**Program:** CloudMavin Cybersecurity Fellowship
+
+**Week:** Week 1
+
+**Task:** 1.1 – Lab & Portfolio Bring-Up
+
+---
+
+# Objective
+
+Provision a cybersecurity laboratory environment using Oracle VirtualBox and Kali Linux, establish a documentation vault, configure version control using GitHub, and prepare the environment for practical cybersecurity exercises.
+
+---
+
+# Activities Performed
+
+## 1. Installed Oracle VirtualBox
+
+- Downloaded Oracle VirtualBox
+- Installed successfully on Windows 11
+
+---
+
+## 2. Created Kali Linux Virtual Machine
+
+Configuration:
+
+- VM Name: Kali-Linux-CloudMavin
+- Operating System: Other Linux (64-bit)
+- Memory: 3072 MB
+- CPU: 2
+- Virtual Disk: ~90 GB
+
+---
+
+## 3. Installed Kali Linux
+
+- Booted from Kali Linux ISO
+- Completed graphical installation
+- Installed GRUB Bootloader
+- Successfully booted into Kali Desktop
+
+---
+
+## 4. Updated Operating System
+
+Executed:
+
+```bash
+sudo apt update
+sudo apt full-upgrade -y
+```
+
+System updated successfully.
+
+---
+
+## 5. Created Virtual Machine Snapshot
+
+Snapshot Name:
+
+Fresh-Kali-Installation
+
+Purpose:
+
+Restore point before practical labs.
+
+---
+
+## 6. Installed Obsidian
+
+Created Vault:
+
+CloudMavin Cybersecurity Vault
+
+Created folders for:
+
+- Week 1
+- Week 2
+- Linux Notes
+- Networking
+- TryHackMe
+- Hack The Box
+- Commands
+- Frameworks
+- Reports
+- Resources
+
+---
+
+## 7. GitHub Repository
+
+Created repository:
+
+cloudmavin-fellowship-henryjohn
+
+Repository includes:
+
+- README
+- Folder structure
+- Documentation folders
+- Weekly task folders
+
+---
+
+# Status
+
+Task 1.1 completed successfully.
+
