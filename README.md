@@ -15,6 +15,7 @@ It contains:
 - TryHackMe and Hack The Box write-ups
 - Personal cybersecurity notes
 
+
 ## Repository Structure
 
 ```
@@ -32,6 +33,16 @@ week-01/
 - Document every lab professionally
 - Develop a public technical portfolio
 - Demonstrate industry-standard reporting
+
+## Progress
+
+### Week 1
+
+- [x] Task 1.1 – Lab & Portfolio Bring-Up
+- [x] Task 1.2 – Framework Mapping Exercise
+- [ ] Task 1.3 – Reconnaissance Baseline
+- [x] Task 1.4 – Personal Research & Documentation Standard
+
 
 ## Author
 
