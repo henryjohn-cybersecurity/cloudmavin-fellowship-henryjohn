@@ -1,0 +1,64 @@
+Task 1.4 Report
+
+Research Methodology Statement
+
+Executive Summary
+A Personal Research & Documentation Standard was developed to define how research, documentation, evidence management, and version control will be maintained throughout the CloudMavin Cybersecurity Fellowship. The standard establishes consistent procedures for note-taking, file naming, source citation, evidence collection, and GitHub version control.
+
+Objectives
+• Establish a consistent research methodology.
+• Define documentation standards.
+• Standardize file naming conventions.
+• Improve evidence management.
+• Maintain version control using GitHub.
+• Promote professional reporting practices.
+
+Methodology
+The methodology was developed by identifying best practices in cybersecurity documentation and adapting them to the fellowship requirements. Standards were created for note-taking, file organization, citation, version control, evidence management, and AI-assisted learning.
+
+Technical Details
+
+The standard covers:
+• Note-taking
+• File naming
+• Documentation
+• Source citation
+• Version control
+• Evidence management
+• Backup strategy
+• AI usage
+
+Screenshots & Evidence
+• Screenshot of the completed standard document in Obsidian.
+• Screenshot of the GitHub repository after uploading the document.
+
+Commands Used
+No terminal commands were required for this task because it involved documentation and policy development.
+
+Findings
+A standardized documentation process improves organization, consistency, traceability, and the quality of cybersecurity reports.
+
+Risk Rating
+Low
+
+Reason:
+A documented methodology reduces the likelihood of losing evidence, creating inconsistent reports, or omitting important information.
+
+Recommendations
+• Follow the documentation standard consistently.
+• Update the standard if new tools or workflows are adopted.
+• Back up documentation regularly.
+• Review documentation before submission.
+
+Lessons Learned
+This task highlighted the importance of maintaining structured documentation and version control throughout a cybersecurity project.
+
+References
+• NIST Cybersecurity Framework (CSF) 2.0
+• MITRE ATT&CK Framework
+• NICE Workforce Framework
+• GitHub Documentation
+• Obsidian Documentation
+
+AI Usage Declaration
+Artificial Intelligence (ChatGPT by OpenAI) was used to explain documentation best practices and assist with report formatting. All decisions, organization, and final documentation were reviewed and approved by me
